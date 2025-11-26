@@ -10,3 +10,4 @@ D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Dat
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Data\obj\Debug\net9.0\refint\Backend.Data.dll
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Data\obj\Debug\net9.0\Backend.Data.pdb
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Data\obj\Debug\net9.0\ref\Backend.Data.dll
+D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Data\obj\Debug\net9.0\Backend.Data.sourcelink.json

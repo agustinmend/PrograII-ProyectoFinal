@@ -1,10 +1,12 @@
+using Backend.Business;
+using Backend.Data;
+using MongoDB.Driver;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
-
-var origenesPermitidos = builder.Configuration.GetValue<string>("OrigenesPermitidos")!.Split(",");
+var origenesPermitidos = builder.Configuration
+    .GetValue<string>("OrigenesPermitidos")!
+    .Split(",");
 
 builder.Services.AddSingleton<MongoDBContext>(sp =>
 {
@@ -14,41 +16,57 @@ builder.Services.AddSingleton<MongoDBContext>(sp =>
     return new MongoDBContext(conn, db);
 });
 
-builder.Services.AddCors(opciones =>
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IPublicationRepository , PublicationRepository>();
+builder.Services.AddScoped<IPublicationService , PublicationService>();
+builder.Services.AddScoped<ICommentRepository, CommentRepository>();
+builder.Services.AddScoped<ICommentService, CommentService>();
+builder.Services.AddScoped<INotifier, ConsoleNotifier>();
+builder.Services.AddScoped<SimpleSearchStrategy>();
+//dependencia ia cuando se haga
+builder.Services.AddScoped<SearchStrategyFactory>();
+builder.Services.AddControllers();
+builder.Services.AddCors(options =>
 {
-    opciones.AddDefaultPolicy(politica =>
+    options.AddDefaultPolicy(policy =>
     {
-        politica.WithOrigins(origenesPermitidos).AllowAnyHeader().AllowAnyMethod();
+        policy.WithOrigins(origenesPermitidos)
+              .AllowAnyHeader()
+              .AllowAnyMethod();
     });
 });
 
 var app = builder.Build();
-
-// Configure the HTTP request pipeline.
+app.MapControllers();
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
-
 app.UseCors();
-
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
 
 app.MapGet("/weatherforecast", () =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
+    var summaries = new[]
+    {
+        "Freezing", "Bracing", "Chilly", "Cool", "Mild",
+        "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+    };
+
+    var forecast = Enumerable.Range(1, 5).Select(index =>
+        new WeatherForecast(
             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
             Random.Shared.Next(-20, 55),
             summaries[Random.Shared.Next(summaries.Length)]
         ))
         .ToArray();
+
     return forecast;
 })
 .WithName("GetWeatherForecast");

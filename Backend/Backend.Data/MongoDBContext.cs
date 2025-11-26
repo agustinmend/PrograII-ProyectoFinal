@@ -11,11 +11,11 @@ namespace Backend.Data
             var client = new MongoClient(connectionString);
             _database = client.GetDatabase(databaseName);
         }
-        public IMongoCollection<UsuarioDB> Usuarios
-            => _database.GetCollection<UsuarioDB>("Usuarios");
-        public IMongoCollection<PublicacionDB> Publicaciones
-            => _database.GetCollection<PublicacionDB>("Publicaciones");
-        public IMongoCollection<ComentarioDB> Comentarios
-            => _database.GetCollection<ComentarioDB>("Comentarios");
+        public IMongoCollection<UserBD> Users
+            => _database.GetCollection<UserBD>("Usuarios");
+        public IMongoCollection<PublicationBD> Publications
+            => _database.GetCollection<PublicationBD>("Publicaciones");
+        public IMongoCollection<CommentBD> Comments
+            => _database.GetCollection<CommentBD>("Comentarios");
     }
 }

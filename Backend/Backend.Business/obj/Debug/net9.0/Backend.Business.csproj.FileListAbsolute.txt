@@ -13,3 +13,4 @@ D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Bus
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Business\obj\Debug\net9.0\refint\Backend.Business.dll
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Business\obj\Debug\net9.0\Backend.Business.pdb
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Business\obj\Debug\net9.0\ref\Backend.Business.dll
+D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.Business\obj\Debug\net9.0\Backend.Business.sourcelink.json

@@ -34,3 +34,5 @@ D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.API
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.API\obj\Debug\net9.0\Backend.API.pdb
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.API\obj\Debug\net9.0\Backend.API.genruntimeconfig.cache
 D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.API\obj\Debug\net9.0\ref\Backend.API.dll
+D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Agustin\Universidad\4to semestre\Progra II\PROYECTO FINAL\Backend\Backend.API\obj\Debug\net9.0\Backend.API.sourcelink.json

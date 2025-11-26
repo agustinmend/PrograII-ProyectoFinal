@@ -3,84 +3,216 @@
   "WorkspaceRootPath": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Services\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Models\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IUsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\IRepository\\IUsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\PublicationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\Controladores\\PublicationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Repository\\UsuarioRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\PublicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Services\\PublicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\UsernameValidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\UsernameValidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\CommentBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Models\\CommentBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\PasswordValidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\PasswordValidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\PublicationBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Models\\PublicationBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\EmailValidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\EmailValidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CommentDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Dtos\\CommentDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IUsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\IServices\\IUsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\PublicationDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Dtos\\PublicationDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Backend.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Backend.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IPublicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\IServices\\IPublicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\CommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Repository\\CommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CommentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Dtos\\CommentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\PublicationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Dtos\\PublicationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\PublicationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Repository\\PublicationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\ICommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\IRepository\\ICommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IPublicationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\IRepository\\IPublicationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Interfaces\\ISearchStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Interfaces\\ISearchStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Implementations\\Searchs\\SimpleSearchStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Implementations\\Searchs\\SimpleSearchStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Factorys\\SearchStrategyFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Factorys\\SearchStrategyFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\IServices\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\ICommentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\IServices\\ICommentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\CommentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Services\\CommentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\CommentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\Controladores\\CommentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\AddCommentValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\AddCommentValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\NoUserExists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\NoUserExists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\NonExistentAuthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\NonExistentAuthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\MongoDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\MongoDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\UsuarioEmpresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Models\\UsuarioEmpresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\Controladores\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\UsuarioCorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Models\\UsuarioCorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Repository\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Models\\Publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\CreatePublicationValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\CreatePublicationValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Models\\Comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\EmptyComment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\EmptyComment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\ComentarioDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Models\\ComentarioDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\ExistingEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\ExistingEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\PublicacionDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Models\\PublicacionDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\UserProfileDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Dtos\\UserProfileDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\UsuarioDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Models\\UsuarioDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CreateUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Dtos\\CreateUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Implementations\\Notifys\\ConsoleNotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Implementations\\Notifys\\ConsoleNotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\UsuariosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\Controladores\\UsuariosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Interfaces\\INotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Interfaces\\INotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CreatePublicationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Dtos\\CreatePublicationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\CreateUserValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\CreateUserValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidUsername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\InvalidUsername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidContent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\InvalidContent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\InvalidEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\IRepository\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\UserBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Models\\UserBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\EmailValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\EmailValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\UsernameValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\UsernameValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\PasswordValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Validadores\\PasswordValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidPassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\InvalidPassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Backend.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.API\\Backend.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\ExistingUsername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Business\\Exceptions\\ExistingUsername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\EntidadBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Models\\EntidadBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Backend.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend.Data\\Backend.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,111 +222,685 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T20:06:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentDetailDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CommentDetailDto.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Dtos\\CommentDetailDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CommentDetailDto.cs",
+              "RelativeToolTip": "Backend.Business\\Dtos\\CommentDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:30:14.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Backend.Data\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\UsuarioRepository.cs",
-              "RelativeToolTip": "Backend.Data\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "PublicationService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\PublicationService.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Services\\PublicationService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\PublicationService.cs",
+              "RelativeToolTip": "Backend.Business\\Services\\PublicationService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:23:32.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublicationDetailDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\PublicationDetailDto.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Dtos\\PublicationDetailDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\PublicationDetailDto.cs",
+              "RelativeToolTip": "Backend.Business\\Dtos\\PublicationDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:53:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentBD.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\CommentBD.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\Models\\CommentBD.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\CommentBD.cs",
+              "RelativeToolTip": "Backend.Data\\Models\\CommentBD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:28:51.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublicationBD.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\PublicationBD.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\Models\\PublicationBD.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\PublicationBD.cs",
+              "RelativeToolTip": "Backend.Data\\Models\\PublicationBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:18:51.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Program.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Program.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Program.cs",
+              "RelativeToolTip": "Backend.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:46:33.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPublicationService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IPublicationService.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\IServices\\IPublicationService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IPublicationService.cs",
+              "RelativeToolTip": "Backend.Business\\IServices\\IPublicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:21:10.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicationController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\PublicationController.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Controladores\\PublicationController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\PublicationController.cs",
+              "RelativeToolTip": "Backend.API\\Controladores\\PublicationController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:53:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CommentDto.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Dtos\\CommentDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CommentDto.cs",
+              "RelativeToolTip": "Backend.Business\\Dtos\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:13:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PublicationDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\PublicationDto.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Dtos\\PublicationDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\PublicationDto.cs",
+              "RelativeToolTip": "Backend.Business\\Dtos\\PublicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:46:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublicationRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\PublicationRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\Repository\\PublicationRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\PublicationRepository.cs",
+              "RelativeToolTip": "Backend.Data\\Repository\\PublicationRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:20:29.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\Repository\\CommentRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Backend.Data\\Repository\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:51:46.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\IRepository\\ICommentRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\ICommentRepository.cs",
+              "RelativeToolTip": "Backend.Data\\IRepository\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:49:18.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPublicationRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IPublicationRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\IRepository\\IPublicationRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IPublicationRepository.cs",
+              "RelativeToolTip": "Backend.Data\\IRepository\\IPublicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:15:27.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISearchStrategy.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Interfaces\\ISearchStrategy.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Interfaces\\ISearchStrategy.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Interfaces\\ISearchStrategy.cs",
+              "RelativeToolTip": "Backend.Business\\Interfaces\\ISearchStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:11:51.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimpleSearchStrategy.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Implementations\\Searchs\\SimpleSearchStrategy.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Implementations\\Searchs\\SimpleSearchStrategy.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Implementations\\Searchs\\SimpleSearchStrategy.cs",
+              "RelativeToolTip": "Backend.Business\\Implementations\\Searchs\\SimpleSearchStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:15:10.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchStrategyFactory.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Factorys\\SearchStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Factorys\\SearchStrategyFactory.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Factorys\\SearchStrategyFactory.cs",
+              "RelativeToolTip": "Backend.Business\\Factorys\\SearchStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:07:46.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IUserService.cs",
+              "RelativeToolTip": "Backend.Business\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:32:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\IServices\\ICommentService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\ICommentService.cs",
+              "RelativeToolTip": "Backend.Business\\IServices\\ICommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:15:40.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Services\\CommentService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\CommentService.cs",
+              "RelativeToolTip": "Backend.Business\\Services\\CommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:17:25.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Controladores\\CommentsController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\CommentsController.cs",
+              "RelativeToolTip": "Backend.API\\Controladores\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:45:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddCommentValidator.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\AddCommentValidator.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\AddCommentValidator.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\AddCommentValidator.cs",
+              "RelativeToolTip": "Backend.Business\\Validadores\\AddCommentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:26:04.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NoUserExists.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\NoUserExists.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\NoUserExists.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\NoUserExists.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\NoUserExists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:34:41.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NonExistentAuthor.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\NonExistentAuthor.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\NonExistentAuthor.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\NonExistentAuthor.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\NonExistentAuthor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:42:56.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MongoDBContext.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\MongoDBContext.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\MongoDBContext.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\MongoDBContext.cs",
+              "RelativeToolTip": "Backend.Data\\MongoDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:18:54.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\UsersController.cs",
+              "RelativeDocumentMoniker": "Backend.API\\Controladores\\UsersController.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\UsersController.cs",
+              "RelativeToolTip": "Backend.API\\Controladores\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:32:26.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreatePublicationValidator.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\CreatePublicationValidator.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\CreatePublicationValidator.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\CreatePublicationValidator.cs",
+              "RelativeToolTip": "Backend.Business\\Validadores\\CreatePublicationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:33:59.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmptyComment.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\EmptyComment.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\EmptyComment.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\EmptyComment.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\EmptyComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:29:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Backend.Data\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T15:50:40.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Backend.Data\\IRepository\\IUsuarioRepository.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IUsuarioRepository.cs",
-              "RelativeToolTip": "Backend.Data\\IRepository\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "ExistingEmail.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\ExistingEmail.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\ExistingEmail.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\ExistingEmail.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\ExistingEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T15:37:19.44Z",
+              "WhenOpened": "2025-11-25T15:50:39.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Services\\UsuarioService.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Backend.Business\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "Backend.Business\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:21:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConsoleNotifier.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Implementations\\Notifys\\ConsoleNotifier.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Implementations\\Notifys\\ConsoleNotifier.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Implementations\\Notifys\\ConsoleNotifier.cs",
+              "RelativeToolTip": "Backend.Business\\Implementations\\Notifys\\ConsoleNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:09:50.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Interfaces\\INotifier.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Interfaces\\INotifier.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Interfaces\\INotifier.cs",
+              "RelativeToolTip": "Backend.Business\\Interfaces\\INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:59:46.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Dtos\\UserProfileDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\UserProfileDto.cs",
+              "RelativeToolTip": "Backend.Business\\Dtos\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:50:45.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Services\\UserService.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Services\\UserService.cs",
+              "RelativeToolTip": "Backend.Business\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T22:30:10.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmailValidador.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\EmailValidador.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\EmailValidador.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\EmailValidador.cs",
-              "RelativeToolTip": "Backend.Business\\Validadores\\EmailValidador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "DocumentIndex": 36,
+              "Title": "CreatePublicationDto.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CreatePublicationDto.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Dtos\\CreatePublicationDto.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Dtos\\CreatePublicationDto.cs",
+              "RelativeToolTip": "Backend.Business\\Dtos\\CreatePublicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:29:40.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PasswordValidador.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\PasswordValidador.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\PasswordValidador.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\PasswordValidador.cs",
-              "RelativeToolTip": "Backend.Business\\Validadores\\PasswordValidador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:29:53.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsernameValidador.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\UsernameValidador.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\UsernameValidador.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\UsernameValidador.cs",
-              "RelativeToolTip": "Backend.Business\\Validadores\\UsernameValidador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:29:55.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Models\\Usuario.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Usuario.cs",
-              "RelativeToolTip": "Backend.Business\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:29:04.28Z",
+              "WhenOpened": "2025-11-25T20:27:32.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\IServices\\IUsuarioService.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\IServices\\IUsuarioService.cs",
-              "RelativeToolTip": "Backend.Business\\IServices\\IUsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 37,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\CreateUserValidator.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\CreateUserValidator.cs",
+              "RelativeToolTip": "Backend.Business\\Validadores\\CreateUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:32:21.12Z"
+              "WhenOpened": "2025-11-25T15:52:41.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 38,
+              "Title": "InvalidUsername.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidUsername.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\InvalidUsername.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidUsername.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\InvalidUsername.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:07:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InvalidContent.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidContent.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\InvalidContent.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidContent.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\InvalidContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:38:51.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InvalidEmail.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidEmail.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\InvalidEmail.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidEmail.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\InvalidEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:49:21.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\EmailValidator.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\EmailValidator.cs",
+              "RelativeToolTip": "Backend.Business\\Validadores\\EmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:29:40.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\IRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Backend.Data\\IRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:37:19.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UsernameValidator.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\UsernameValidator.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\UsernameValidator.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\UsernameValidator.cs",
+              "RelativeToolTip": "Backend.Business\\Validadores\\UsernameValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:29:55.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Validadores\\PasswordValidator.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Validadores\\PasswordValidator.cs",
+              "RelativeToolTip": "Backend.Business\\Validadores\\PasswordValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:29:53.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserBD.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\UserBD.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\Models\\UserBD.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\UserBD.cs",
+              "RelativeToolTip": "Backend.Data\\Models\\UserBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:28:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InvalidPassword.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidPassword.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\InvalidPassword.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\InvalidPassword.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\InvalidPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:46:04.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend.API\\appsettings.json",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\appsettings.json",
+              "RelativeToolTip": "Backend.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T22:29:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\appsettings.Development.json",
+              "RelativeToolTip": "Backend.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T18:48:34.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Backend.API.csproj",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Backend.API.csproj",
+              "RelativeDocumentMoniker": "Backend.API\\Backend.API.csproj",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Backend.API.csproj",
+              "RelativeToolTip": "Backend.API\\Backend.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T18:29:18.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ExistingUsername.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\ExistingUsername.cs",
+              "RelativeDocumentMoniker": "Backend.Business\\Exceptions\\ExistingUsername.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Exceptions\\ExistingUsername.cs",
+              "RelativeToolTip": "Backend.Business\\Exceptions\\ExistingUsername.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:18:08.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EntidadBase.cs",
+              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\EntidadBase.cs",
+              "RelativeDocumentMoniker": "Backend.Data\\Models\\EntidadBase.cs",
+              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\EntidadBase.cs",
+              "RelativeToolTip": "Backend.Data\\Models\\EntidadBase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:47:05.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
               "Title": "Backend.Data.csproj",
               "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Backend.Data.csproj",
               "RelativeDocumentMoniker": "Backend.Data\\Backend.Data.csproj",
@@ -202,139 +908,8 @@
               "RelativeToolTip": "Backend.Data\\Backend.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-12T21:18:41.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MongoDBContext.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\MongoDBContext.cs",
-              "RelativeDocumentMoniker": "Backend.Data\\MongoDBContext.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\MongoDBContext.cs",
-              "RelativeToolTip": "Backend.Data\\MongoDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T21:18:54.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsuarioEmpresa.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\UsuarioEmpresa.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Models\\UsuarioEmpresa.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\UsuarioEmpresa.cs",
-              "RelativeToolTip": "Backend.Business\\Models\\UsuarioEmpresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:29:14.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsuarioCorriente.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\UsuarioCorriente.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Models\\UsuarioCorriente.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\UsuarioCorriente.cs",
-              "RelativeToolTip": "Backend.Business\\Models\\UsuarioCorriente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:29:17.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Publicacion.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Publicacion.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Models\\Publicacion.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Publicacion.cs",
-              "RelativeToolTip": "Backend.Business\\Models\\Publicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:29:06.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Comentario.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Comentario.cs",
-              "RelativeDocumentMoniker": "Backend.Business\\Models\\Comentario.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Business\\Models\\Comentario.cs",
-              "RelativeToolTip": "Backend.Business\\Models\\Comentario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:29:09.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ComentarioDB.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\ComentarioDB.cs",
-              "RelativeDocumentMoniker": "Backend.Data\\Models\\ComentarioDB.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\ComentarioDB.cs",
-              "RelativeToolTip": "Backend.Data\\Models\\ComentarioDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:28:51.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PublicacionDB.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\PublicacionDB.cs",
-              "RelativeDocumentMoniker": "Backend.Data\\Models\\PublicacionDB.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\PublicacionDB.cs",
-              "RelativeToolTip": "Backend.Data\\Models\\PublicacionDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T21:18:51.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UsuarioDB.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\UsuarioDB.cs",
-              "RelativeDocumentMoniker": "Backend.Data\\Models\\UsuarioDB.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.Data\\Models\\UsuarioDB.cs",
-              "RelativeToolTip": "Backend.Data\\Models\\UsuarioDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:28:54.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Program.cs",
-              "RelativeDocumentMoniker": "Backend.API\\Program.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Program.cs",
-              "RelativeToolTip": "Backend.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:46:33.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "Backend.API\\Controladores\\UsuariosController.cs",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\Controladores\\UsuariosController.cs",
-              "RelativeToolTip": "Backend.API\\Controladores\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T22:32:26.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Backend.API\\appsettings.json",
-              "ToolTip": "D:\\Agustin\\Universidad\\4to semestre\\Progra II\\PROYECTO FINAL\\Backend\\Backend.API\\appsettings.json",
-              "RelativeToolTip": "Backend.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-12T22:29:00.975Z"
+              "WhenOpened": "2025-11-12T21:18:41.366Z",
+              "EditorCaption": ""
             }
           ]
         }
