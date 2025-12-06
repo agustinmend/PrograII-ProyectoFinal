@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Backend.API",
-    "\\Backend.Business",
-    "\\Backend.Business\\Factorys",
-    "\\Backend.Business\\Implementations",
-    "\\Backend.Business\\Implementations\\Searchs",
-    "\\Backend.Business\\Interfaces",
-    "\\Backend.Business\\IServices",
-    "\\Backend.Business\\Services",
-    "\\Backend.Data"
+    ""
   ],
-  "SelectedNode": "\\Backend.API\\Program.cs",
+  "SelectedNode": "\\Backend.sln",
   "PreviewInSolutionExplorer": false
 }

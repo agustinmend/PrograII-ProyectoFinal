@@ -4,7 +4,6 @@ namespace Backend.Business
 {
     public static class UsernameValidator
     {
-
         public static bool ValidateUsername(string username)
         {
             if(string.IsNullOrWhiteSpace(username))
