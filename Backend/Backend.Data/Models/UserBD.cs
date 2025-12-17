@@ -32,5 +32,8 @@ namespace Backend.Data
 
         [BsonElement("Publicaciones")]
         public List<string> Publicaciones { get; set; }
+
+        [BsonElement("likedPublications")]
+        public List<string> LikedPublications { get; set; } = new List<string>();
     }
 }

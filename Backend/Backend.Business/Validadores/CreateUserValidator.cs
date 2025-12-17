@@ -20,12 +20,12 @@ namespace Backend.Business
             {
                 throw new InvalidUsername("Nombre de Usuario invalido");
             }
-            var ExistsEmail = userRepository.GetByEmailAsync(user.Email);
+            var ExistsEmail = await userRepository.GetByEmailAsync(user.Email);
             if(ExistsEmail != null)
             {
                 throw new ExistingEmail("Ya existe un usuario con este Email");
             }
-            var ExistsUsername = userRepository.GetByUsernameAsync(user.Username);
+            var ExistsUsername = await userRepository.GetByUsernameAsync(user.Username);
             if(ExistsUsername != null)
             {
                 throw new ExistingUsername("Ya existe un usuario con este username");

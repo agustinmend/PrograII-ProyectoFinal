@@ -6,13 +6,13 @@ namespace Backend.Business
 {
     public static class CreatePublicationValidator
     {
-        public static void validate(CreatePublicationDto publication , IUserRepository _userRepository)
+        public static async Task validate(CreatePublicationDto publication , IUserRepository _userRepository)
         {
             if(string.IsNullOrWhiteSpace(publication.Content))
             {
                 throw new InvalidContent("La publicacion esta vacia");
             }
-            var user = _userRepository.GetByIdAsync(publication.AuthorId);
+            var user = await _userRepository.GetByIdAsync(publication.AuthorId);
             if(user == null || publication.AuthorId.Length != 24)
             {
                 throw new NonExistentAuthor("No existe autor para esta publicacion");

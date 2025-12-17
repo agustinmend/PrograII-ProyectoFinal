@@ -65,4 +65,17 @@ public class PublicationsController : ControllerBase
             return StatusCode(500, new { error = "Ocurrio un problema : " + ex.Message });
         }
     }
+    [HttpPost("{id}/toggle-like")]
+    public async Task<IActionResult> ToggleLike(string id, string userId)
+    {
+        try
+        {
+            await _publicationService.ToggleLikeAsync(id, userId);
+            return Ok(new { message = "Estado de like actualizado" });
+        }
+        catch(Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
 }

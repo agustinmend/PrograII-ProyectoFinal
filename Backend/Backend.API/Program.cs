@@ -1,3 +1,4 @@
+using Backend.API;
 using Backend.Business;
 using Backend.Data;
 using MongoDB.Driver;
@@ -27,6 +28,7 @@ builder.Services.AddScoped<ICommentRepository, CommentRepository>();
 builder.Services.AddScoped<ICommentService, CommentService>();
 builder.Services.AddScoped<INotifier, ConsoleNotifier>();
 builder.Services.AddScoped<SimpleSearchStrategy>();
+builder.Services.AddScoped<IFileStorageServices, FileStorageServices>();
 //dependencia ia cuando se haga
 builder.Services.AddScoped<SearchStrategyFactory>();
 builder.Services.AddControllers();
@@ -41,6 +43,7 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+app.UseStaticFiles();
 app.MapControllers();
 if (app.Environment.IsDevelopment())
 {
@@ -50,7 +53,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseCors();
-
 app.MapGet("/weatherforecast", () =>
 {
     var summaries = new[]

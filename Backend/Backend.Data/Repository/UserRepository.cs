@@ -27,6 +27,24 @@ namespace Backend.Data
         {
             return await _users.Find(x => x.Id == id).FirstOrDefaultAsync();
         }
+        public async Task AddPublicationIdAsync(string userId, string PublicationId)
+        {
+            var filter = Builders<UserBD>.Filter.Eq(x => x.Id, userId);
+            var update = Builders<UserBD>.Update.Push(x => x.Publicaciones, PublicationId);
+            await _users.UpdateOneAsync(filter, update);
+        }
+        public async Task AddLikedPublicationAsync(string userId, string publicationId)
+        {
+            var filter = Builders<UserBD>.Filter.Eq(x => x.Id, userId);
+            var update = Builders<UserBD>.Update.AddToSet(x => x.LikedPublications, publicationId);
+            await _users.UpdateOneAsync(filter, update);
+        }
+        public async Task RemoveLikedPublicationAsync(string userId, string publicationId)
+        {
+            var filter = Builders<UserBD>.Filter.Eq(x => x.Id, userId);
+            var update = Builders<UserBD>.Update.Pull(x => x.LikedPublications, publicationId);
+            await _users.UpdateOneAsync(filter, update);
+        }
     }
 }
 

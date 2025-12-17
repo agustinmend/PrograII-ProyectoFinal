@@ -19,6 +19,7 @@ namespace Backend.Business
             {
                 Id = x.Id,
                 Content = x.Content,
+                AuthorId = x.AuthorId,
                 ImageUrls = x.ImagenUrls,
                 CreateAt = x.CreatedAt,
                 LikesCount = x.LikesCount

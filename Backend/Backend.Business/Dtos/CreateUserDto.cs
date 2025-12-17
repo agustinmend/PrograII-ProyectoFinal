@@ -9,7 +9,7 @@ namespace Backend.Business
         public string Password { get; set; }
         public string Email { get; set; }
         public string? Description { get; set; }
-        public string ProfilePhotoUrl { get; set; }
+        public string? ProfilePhotoUrl { get; set; }
         public List<string> Contacts { get; set; }
         public List<string> Publicaciones { get; set; }
     }

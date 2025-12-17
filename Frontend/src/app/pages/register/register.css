@@ -1,0 +1,37 @@
+/* --- Fuentes e Iconos --- */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap');
+
+/* --- Variables de Tema --- */
+:host {
+  --primary: #197fe6;
+  
+  /* Fondos */
+  --bg-page: #f6f7f8;
+  --bg-card: #ffffff;
+  --bg-input: #f6f7f8;
+  
+  /* Textos */
+  --text-main: #0e141b;
+  --text-subtle: #4e7397;
+  --text-white: #ffffff;
+  
+  /* Bordes */
+  --border-color: #d0dbe7;
+  
+  --font-main: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* --- Clases de Utilidad --- */
+.font-display { font-family: var(--font-main); }
+.text-primary { color: var(--primary); }
+.bg-primary { background-color: var(--primary); }
+.bg-page { background-color: var(--bg-page); }
+.bg-card { background-color: var(--bg-card); }
+.text-main { color: var(--text-main); }
+
+/* Ajustes de Iconos */
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  user-select: none; /* Para que no se seleccione el texto al hacer click */
+}

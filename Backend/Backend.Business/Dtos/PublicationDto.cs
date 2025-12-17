@@ -5,6 +5,9 @@ namespace Backend.Business
     public class PublicationDto
     {
         public string  Id { get; set; }
+        public string AuthorId { get; set; } //anadido
+        public string AuthorName { get; set; }//anadido
+        public string AuthorUsername { get; set; }
         public string Content { get; set; }
         public List<string> ImageUrls { get; set; }
         public DateTime CreateAt { get; set; }

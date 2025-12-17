@@ -6,6 +6,9 @@ namespace Backend.Business
     {
         Task CreatePublicationAsync(CreatePublicationDto publication);
         Task<PublicationDetailDto> GetPublicationDetailAsync(string publicationId);
+        Task ToggleLikeAsync(string publicationId, string userId);
+        Task<List<PublicationDto>> GetLikedByUserAsync(string userId);
+
     }
 }
 

@@ -1,0 +1,43 @@
+/* --- Importación de Fuentes --- */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap');
+
+/* --- Variables Globales (Tu Tema) --- */
+:host {
+  /* Definimos los colores aquí para facilitar cambios futuros */
+  --color-primary: #197fe6;
+  --color-bg-light: #f6f7f8;
+  --color-bg-dark: #111921;
+  --font-main: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* --- Clases de Utilidad Personalizadas --- */
+/* Estas clases reemplazan la config compleja de JS que tenías */
+
+.font-display {
+  font-family: var(--font-main);
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+
+.bg-primary {
+  background-color: var(--color-primary);
+}
+
+.bg-background-light {
+  background-color: var(--color-bg-light);
+}
+
+/* Ajuste para iconos de Google Material */
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+/* --- Ajustes Específicos --- */
+.hero-background {
+  /* He movido el estilo inline del HTML aquí para limpiarlo */
+  background-image: linear-gradient(rgba(17, 25, 33, 0.4) 0%, rgba(17, 25, 33, 0.7) 100%), 
+                    url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop");
+}

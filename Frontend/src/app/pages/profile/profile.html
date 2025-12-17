@@ -1,0 +1,110 @@
+<div class="bg-page font-display text-main min-h-screen">
+  <div class="relative flex h-auto min-h-screen w-full flex-col overflow-x-hidden">
+    <div class="layout-container flex h-full grow flex-col">
+      
+      <header class="flex items-center justify-between whitespace-nowrap border-b border-solid border-custom px-4 sm:px-10 py-3 bg-card sticky top-0 z-50">
+        <div class="flex items-center gap-8">
+          <div class="flex items-center gap-4 text-main">
+            <div class="size-6 text-primary">
+              <svg fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                <path clip-rule="evenodd" d="M12.0799 24L4 19.2479L9.95537 8.75216L18.04 13.4961L18.0446 4H29.9554L29.96 13.4961L38.0446 8.75216L44 19.2479L35.92 24L44 28.7521L38.0446 39.2479L29.96 34.5039L29.9554 44H18.0446L18.04 34.5039L9.95537 39.2479L4 28.7521L12.0799 24Z" fill="currentColor" fill-rule="evenodd"></path>
+              </svg>
+            </div>
+            <h2 class="text-xl font-bold leading-tight">ALTANTO</h2>
+          </div>
+        </div>
+
+        <div class="hidden md:flex flex-1 justify-end gap-8">
+          <div class="flex items-center gap-9 text-secondary">
+            <a class="text-sm font-medium hover:text-primary transition-colors cursor-pointer">Home</a>
+            <a class="text-sm font-medium hover:text-primary transition-colors cursor-pointer">Explorar</a>
+            <a class="text-sm font-medium hover:text-primary transition-colors cursor-pointer">Mensajes</a>
+          </div>
+          
+          <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10 ring-2 ring-gray-200" 
+               style='background-image: url("https://i.pravatar.cc/150?img=68");'>
+          </div>
+        </div>
+      </header>
+
+      <main class="w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          
+          <aside class="lg:col-span-1 lg:sticky lg:top-24 h-fit flex flex-col gap-6">
+            
+            <div class="w-full flex flex-col gap-4 p-6 bg-card rounded-xl shadow-sm border border-custom">
+              <div class="flex flex-col items-center text-center gap-4">
+                
+                <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full h-32 w-32 ring-4 ring-primary/20" 
+                     style='background-image: url("https://i.pravatar.cc/300?img=5");'>
+                </div>
+
+                <div class="flex flex-col justify-center items-center gap-1">
+                  <p class="text-2xl font-bold leading-tight text-main">@sofiareyes</p>
+                  
+                  <p class="text-secondary text-base font-normal max-w-xs">
+                    Fotógrafa y viajera. Capturando momentos alrededor del mundo. ¡Bienvenidos a mi galería!
+                  </p>
+                  
+                  <p class="text-secondary text-sm font-normal mt-2">Miembro desde Junio 2024</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="flex w-full">
+              <button class="flex w-full items-center justify-center rounded-lg h-12 px-5 bg-primary text-white gap-2 text-base font-bold hover:opacity-90 transition-opacity shadow-md">
+                <span class="material-symbols-outlined">add_photo_alternate</span>
+                <span>Subir Publicación</span>
+              </button>
+            </div>
+          </aside>
+
+          <div class="lg:col-span-2 flex flex-col gap-6">
+            <h2 class="text-2xl font-bold leading-tight text-main px-4">Publicaciones</h2>
+
+            <div class="card-hover flex flex-col rounded-xl bg-card border border-custom overflow-hidden">
+              <div class="w-full bg-center bg-no-repeat aspect-video bg-cover bg-gray-200" 
+                   style='background-image: url("https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=800&auto=format&fit=crop");'>
+              </div>
+              
+              <div class="flex w-full grow flex-col gap-2 p-4">
+                <p class="text-lg font-bold leading-tight text-main">Explorando las montañas</p>
+                <p class="text-secondary text-base font-normal">
+                  ¡Qué vista tan impresionante desde la cima! No puedo esperar a la próxima aventura. #senderismo #naturaleza
+                </p>
+                
+                <div class="flex items-center justify-between mt-2 pt-2 border-t border-gray-100">
+                  <p class="text-secondary text-sm font-normal">Junio 20, 2024</p>
+                  <div class="flex items-center gap-2 text-secondary hover:text-red-500 cursor-pointer transition-colors">
+                    <span class="material-symbols-outlined text-lg">favorite</span>
+                    <span class="text-sm font-medium">2,345</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card-hover flex flex-col rounded-xl bg-card border border-custom overflow-hidden">
+              <div class="w-full bg-center bg-no-repeat aspect-video bg-cover bg-gray-200" 
+                   style='background-image: url("https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=800&auto=format&fit=crop");'>
+              </div>
+              <div class="flex w-full grow flex-col gap-2 p-4">
+                <p class="text-lg font-bold leading-tight text-main">Mañana de café</p>
+                <p class="text-secondary text-base font-normal">
+                  Empezando el día con la energía correcta y un café delicioso.
+                </p>
+                <div class="flex items-center justify-between mt-2 pt-2 border-t border-gray-100">
+                  <p class="text-secondary text-sm font-normal">Junio 18, 2024</p>
+                  <div class="flex items-center gap-2 text-secondary hover:text-red-500 cursor-pointer transition-colors">
+                    <span class="material-symbols-outlined text-lg">favorite</span>
+                    <span class="text-sm font-medium">1,890</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</div>

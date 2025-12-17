@@ -1,0 +1,64 @@
+/* --- Fuentes e Iconos --- */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+
+/* --- Variables de Tema (Tus colores personalizados) --- */
+:host {
+  --color-primary: #197fe6;
+  
+  /* Fondos */
+  --bg-page: #f6f7f8;
+  --bg-card: #ffffff;
+  
+  /* Textos */
+  --text-main: #0e141b;      /* text-light-primary */
+  --text-secondary: #4e7397; /* text-light-secondary */
+  --border-color: #e7edf3;
+  
+  --font-main: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* --- Clases de Utilidad (Mapeo de tus estilos) --- */
+.font-display {
+  font-family: var(--font-main);
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+
+.bg-primary {
+  background-color: var(--color-primary);
+}
+
+.bg-page {
+  background-color: var(--bg-page);
+}
+
+.bg-card {
+  background-color: var(--bg-card);
+}
+
+.text-main {
+  color: var(--text-main);
+}
+
+.text-secondary {
+  color: var(--text-secondary);
+}
+
+.border-custom {
+  border-color: var(--border-color);
+}
+
+/* Configuración de Iconos Material */
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+/* Efecto Hover suave para las tarjetas */
+.card-hover:hover {
+  transform: translateY(-2px);
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}

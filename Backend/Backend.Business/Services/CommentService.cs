@@ -31,6 +31,7 @@ namespace Backend.Business
                 CreateAt = DateTime.Now
             };
             await _commentRepository.CreateCommentAsync(newComment);
+            await _publicationRepository.AddCommentIdAsync(comment.PublicationId, newComment.Id);
             var user = await _userRepository.GetByIdAsync(comment.UserId);
             await _notifier.NotifyAsync($"El usuario {user.FullName} comento una publicacion");
         }

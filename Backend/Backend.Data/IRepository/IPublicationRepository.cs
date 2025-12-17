@@ -10,5 +10,9 @@ namespace Backend.Data
         Task<IEnumerable<PublicationBD>> GetByAuthorIdAsync(string authorId);
         Task<IEnumerable<PublicationBD>> SearchByTextAsync(string query);
         Task<PublicationBD?> GetByIdAsync(string id);
+        Task AddCommentIdAsync(string publicationId, string commentId);
+        Task AddLikeAsync(string publicationId, string userId);
+        Task RemoveLikeAsync(string publicationId, string userId);
+        Task<List<PublicationBD>> GetPublicationsByIdAsync(List<string> ids);
     }
 }

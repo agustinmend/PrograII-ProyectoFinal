@@ -8,6 +8,9 @@ namespace Backend.Data
         Task<UserBD?> GetByEmailAsync(string email);
         Task<UserBD?> GetByUsernameAsync(string username);
         Task<UserBD?> GetByIdAsync(string Id);
+        Task AddPublicationIdAsync(string userId, string PublicationId);
+        Task AddLikedPublicationAsync(string userId, string publicationId);
+        Task RemoveLikedPublicationAsync(string userId, string publicationId);
     }
 }
 

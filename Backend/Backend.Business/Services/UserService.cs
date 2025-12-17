@@ -18,7 +18,7 @@ namespace Backend.Business
         }
         public async Task RegisterUserAsync(CreateUserDto userDto)
         {
-            CreateUserValidator.validate(userDto , _userRepository);
+            await CreateUserValidator.validate(userDto , _userRepository);
             var newUser = new UserBD
             {
                 FullName = userDto.FullName,
@@ -47,12 +47,28 @@ namespace Backend.Business
                 {
                     Id = x.Id,
                     Content = x.Content,
+                    AuthorId = x.AuthorId,
+                    AuthorName = x.AuthorName,
+                    AuthorUsername = x.AuthorUsername,
                     ImageUrls = x.ImagenUrls,
                     CreateAt = x.CreatedAt,
                     LikesCount = x.LikesCount
                 }).OrderByDescending(x => x.CreateAt).ToList()
             };
             return profile;
+        }
+        public async Task<string> LoginAsync(string username , string password)
+        {
+            var user = await _userRepository.GetByUsernameAsync(username);
+            if(user == null)
+            {
+                throw new Exception("Usuario no existe");
+            }
+            if(!PasswordValidator.VerifyPassword(password , user.ContrasenaHash))
+            {
+                throw new Exception("Contrasena erronea");
+            }
+            return user.Id;
         }
     }
 }
