@@ -6,23 +6,41 @@ using System.Net;
 using System.Threading.Tasks;
 using Backend.Business;
 using Microsoft.AspNetCore.Mvc;
+using Backend.API;
 [ApiController]
 [Route("api/Publications")]
 public class PublicationsController : ControllerBase
 {
     private readonly IPublicationService _publicationService;
     private readonly SearchStrategyFactory _searchFactory;
-    public PublicationsController(IPublicationService service, SearchStrategyFactory searchFactory)
+    private readonly IFileStorageServices _fileStorageService;
+    public PublicationsController(IPublicationService service, SearchStrategyFactory searchFactory, IFileStorageServices fileStorageService)
     {
         _publicationService = service;
         _searchFactory = searchFactory;
+        _fileStorageService = fileStorageService;
     }
     [HttpPost]
-    public async Task<IActionResult> CreatePublication([FromBody] CreatePublicationDto publicationDto)
+    public async Task<IActionResult> CreatePublication([FromForm] PublicationCreateDto publicationDto)
     {
         try
         {
-            await _publicationService.CreatePublicationAsync(publicationDto);
+            var nuevo = new CreatePublicationDto
+            {
+                AuthorId = publicationDto.AuthorId,
+                Content = publicationDto.Content,
+                ImagenUrls = new List<string>()
+            };
+            if(publicationDto.Images != null && publicationDto.Images.Count > 0)
+            {
+                foreach(var file in publicationDto.Images)
+                {
+                    string path = await _fileStorageService.SaveFileAsync(file, "images/publications");
+                    nuevo.ImagenUrls.Add(path);
+
+                }
+            }
+            await _publicationService.CreatePublicationAsync(nuevo);
             return Created(string.Empty, new { message = "Publicacion creada exitosamente" });
         }
         catch(InvalidContent ex)

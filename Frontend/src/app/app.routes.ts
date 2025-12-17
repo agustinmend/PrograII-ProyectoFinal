@@ -5,6 +5,7 @@ import { Home } from './pages/home/home';
 import { PublicacionComponent } from './pages/publicacion-component/publicacion-component';
 import { Profile } from './pages/profile/profile';
 import { SearchResultsComponent } from './pages/search-result/search-result';
+import { CreatePublication } from './pages/create-publication/create-publication';
 
 export const routes: Routes = [
     {path: '', redirectTo: 'login', pathMatch: 'full'},
@@ -14,5 +15,6 @@ export const routes: Routes = [
     {path: 'publication', component: PublicacionComponent},
     {path: 'profile/:id', component: Profile},
     {path: 'search', component: SearchResultsComponent},
+    {path: 'create-publication', component: CreatePublication},
     {path: '**', redirectTo: 'login'}    
 ];
