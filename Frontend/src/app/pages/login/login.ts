@@ -24,10 +24,10 @@ export class Login {
   onLogin() {
     this.userService.login(this.credentials).subscribe({
       next: (response: any) => {
-        console.log('Login correcto:', response);
-        localStorage.setItem('userId', response.userId);
-        alert('Bienvenido!');
-        this.router.navigate(['/home']);
+        if (response && response.id) {
+          this.userService.saveUserId(response.id); 
+          this.router.navigate(['/home']);
+        }
       },
       error: (error) => {
         console.error('Error login:', error);

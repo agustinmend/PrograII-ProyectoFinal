@@ -18,4 +18,15 @@ export class PublicacionService {
 
     return this.http.get<PublicationBySearch[]>(`${this.apiUrl}/search`, { params });
   }
+  createPublication(content: string, authorId: string, images: File[]): Observable<any> {
+    const formData = new FormData();
+    formData.append('Content', content);
+    formData.append('AuthorId', authorId);
+    
+    images.forEach(file => {
+      formData.append('Images', file);
+    });
+
+    return this.http.post(this.apiUrl, formData);
+  }
 }

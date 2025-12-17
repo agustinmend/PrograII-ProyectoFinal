@@ -25,4 +25,15 @@ export class UserService {
   login(credentials: any): Observable<any> {
     return this.https.post(`${this.apiUrl}/login`, credentials);
   }
+  saveUserId(id: string) {
+    localStorage.setItem('userId', id);
+  }
+
+  getUserId(): string | null {
+    return localStorage.getItem('userId');
+  }
+
+  logout() {
+    localStorage.removeItem('userId');
+  }
 }

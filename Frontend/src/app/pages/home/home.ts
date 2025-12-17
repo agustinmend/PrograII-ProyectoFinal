@@ -4,11 +4,11 @@ import { FormsModule } from '@angular/forms';
 import { PublicacionService } from '../../services/publicacion.services';
 import { PublicationBySearch } from '../../models/PublicationBySearch';
 import { Router } from '@angular/router';
-
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-home',
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, RouterModule],
   templateUrl: './home.html',
   styleUrl: './home.css',
 })

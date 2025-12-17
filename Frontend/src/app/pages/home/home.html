@@ -14,6 +14,17 @@
               </div>
               <h2 class="text-xl font-bold tracking-tight">ALTANTO</h2>
             </div>
+              <div class="flex gap-2">
+                <button [routerLink]="['/create-publication']" 
+                        class="flex items-center gap-2 rounded-lg bg-primary px-4 py-2 text-white font-bold hover:bg-primary/90 transition-all">
+                  <span class="material-symbols-outlined text-[20px]">add_circle</span>
+                  <span class="hidden md:block">Publicar</span>
+                </button>
+
+                <button class="flex items-center justify-center rounded-lg size-10 bg-slate-100 dark:bg-slate-800 ...">
+                  <span class="material-symbols-outlined text-[20px]">notifications</span>
+                </button>
+              </div>
           </header>
 
           <div class="@container">
