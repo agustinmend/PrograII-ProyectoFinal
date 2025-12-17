@@ -1,17 +1,16 @@
-/* Definimos los colores personalizados que usaba tu HTML */
 :host {
-  --color-primary: #197fe6;
-  --color-bg-light: #f6f7f8;
-  --color-bg-dark: #111921;
+    /* Definimos los colores que usaba el HTML */
+    --color-primary: #197fe6;
+    --color-bg-light: #f6f7f8;
+    --color-bg-dark: #111921;
 }
 
-/* Clases de utilidad para simular la config de Tailwind si no está global */
+/* Clases de utilidad simuladas para este componente */
 .bg-background-light { background-color: var(--color-bg-light); }
 .bg-background-dark { background-color: var(--color-bg-dark); }
 .text-primary { color: var(--color-primary); }
 .bg-primary { background-color: var(--color-primary); }
 
-/* Ajustes adicionales para inputs */
 .form-input:focus {
     box-shadow: none;
     border-color: transparent;

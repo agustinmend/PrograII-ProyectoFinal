@@ -13,6 +13,6 @@ export const routes: Routes = [
     {path: 'home', component: Home},
     {path: 'publication', component: PublicacionComponent},
     {path: 'profile/:id', component: Profile},
-    {path: '**', redirectTo: 'login'},
-    {path: 'search', component: SearchResultsComponent}
+    {path: 'search', component: SearchResultsComponent},
+    {path: '**', redirectTo: 'login'}    
 ];
