@@ -24,8 +24,10 @@ export class Login {
   onLogin() {
     this.userService.login(this.credentials).subscribe({
       next: (response: any) => {
-        if (response && response.id) {
-          this.userService.saveUserId(response.id); 
+        console.log('Respuesta del servidor: ',response)
+        const userId = response.userId
+        if (userId) {
+          this.userService.saveUserId(userId); 
           this.router.navigate(['/home']);
         }
       },
